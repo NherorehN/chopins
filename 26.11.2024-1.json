@@ -1,0 +1,25 @@
+{
+    "name": "Robert Moss",
+    "age": 16,
+    "address": {
+        "street": "Johnson Rapid",
+        "city": "Bradfordland",
+        "state": "Mississippi",
+        "zip": "48562"
+    },
+    "contact": {
+        "phone": "514-762-0304x36621",
+        "servicePhone": "800506700"
+    },
+    "birthday": "2009-26-10",
+    "ip": "38.233.254.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy property Mr such appear. Necessary give class both hair business ball remain. Within approach paper hope too. Somebody actually doctor.",
+        "bio": "Face event institution claim quality beyond listen. Hold strategy until little record. Grow husband probably member look watch."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
