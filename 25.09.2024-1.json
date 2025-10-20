@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Ball",
+    "age": 69,
+    "address": {
+        "street": "Gardner Ford",
+        "city": "West Robin",
+        "state": "Nebraska",
+        "zip": "84518"
+    },
+    "contact": {
+        "phone": "646-899-9310x61813",
+        "servicePhone": "800983238"
+    },
+    "birthday": "1956-17-09",
+    "ip": "78.50.6.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare cover loss newspaper way. Sell glass will cold understand.\nCourt meet operation next product own page. These itself country fact. Learn office teach upon think.",
+        "bio": "Instead learn even either. Can cause concern none why plan program total."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
