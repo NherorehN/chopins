@@ -1,0 +1,25 @@
+{
+    "name": "Gina Rodriguez",
+    "age": 40,
+    "address": {
+        "street": "Steven Land",
+        "city": "Garybury",
+        "state": "New York",
+        "zip": "86266"
+    },
+    "contact": {
+        "phone": "935.643.8990",
+        "servicePhone": "800525417"
+    },
+    "birthday": "1985-09-07",
+    "ip": "206.179.106.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair size human want various nearly hotel.\nFall keep ground game. Record professor arrive soon south effort area. Thank few back perform contain. May drug thousand rather.",
+        "bio": "Feeling light seven billion test.\nExplain she teacher best national. Budget science feeling every.\nTrip indeed day thousand. Account strong beyond surface."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
