@@ -1,0 +1,25 @@
+{
+    "name": "Carol Martinez",
+    "age": 59,
+    "address": {
+        "street": "Jones Mission",
+        "city": "South Nicole",
+        "state": "Arkansas",
+        "zip": "86355"
+    },
+    "contact": {
+        "phone": "001-694-720-5095x10738",
+        "servicePhone": "800750930"
+    },
+    "birthday": "1966-02-06",
+    "ip": "92.27.154.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge realize speech describe worry reveal. Owner southern create strategy be the. Sing them themselves sometimes. Democrat trade half dinner big brother.",
+        "bio": "Build plant somebody medical. Stand positive family sister challenge court. Money meeting senior ago lay.\nWish positive be news avoid wide moment. Mention significant manager. Question when pay hair."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
