@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Shaw",
+    "age": 23,
+    "address": {
+        "street": "Valdez Flat",
+        "city": "Lake Williamstad",
+        "state": "Montana",
+        "zip": "02428"
+    },
+    "contact": {
+        "phone": "(577)219-3101",
+        "servicePhone": "800433896"
+    },
+    "birthday": "2002-25-01",
+    "ip": "16.157.164.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Machine simple leave politics ready cover ago. Offer really middle hair.\nAt under color. Store drug pass machine. Along hope teacher town.",
+        "bio": "Rest along foreign career of. Now guess administration first radio.\nThose price could group bar card. Bar shake operation. Culture sit power clearly nation."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
