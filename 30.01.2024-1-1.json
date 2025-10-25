@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Mills",
+    "age": 39,
+    "address": {
+        "street": "Baker Gardens",
+        "city": "Alexanderville",
+        "state": "California",
+        "zip": "90947"
+    },
+    "contact": {
+        "phone": "982-956-7283x543",
+        "servicePhone": "800029311"
+    },
+    "birthday": "1986-01-12",
+    "ip": "110.238.146.211",
+    "foo": "bar",
+    "profile": {
+        "about": "For wide she offer successful. Decide reality speak approach ask step age.\nExpect produce again need system region drug need. Accept minute build right hospital.",
+        "bio": "Act read able water film book. Represent air some despite. Coach likely defense.\nSummer pull store lay such skill billion.\nOrganization turn support card car. Six whose recently wide myself then."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
